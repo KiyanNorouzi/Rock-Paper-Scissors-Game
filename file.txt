@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 "Main branch update" 
 "Main branch update" 
+=======
+"Feature added" 
+>>>>>>> feature-branch
